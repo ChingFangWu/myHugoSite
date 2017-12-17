@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CF Wu&#39;s Works</title>
+    <link>https://chingfangwu.github.io/myHugoSite/tags/</link>
+    <description>Recent content in Tags on CF Wu&#39;s Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Tw</language>
+    <copyright>&amp;copy;2017 Ching&#39;s Works</copyright>
+    
+	<atom:link href="https://chingfangwu.github.io/myHugoSite/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
